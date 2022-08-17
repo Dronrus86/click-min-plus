@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5%;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: solid 1px black;
+    font-size: 50px;
+    margin: 60px;
+}
